@@ -1,9 +1,7 @@
-# final-clock
 
-# Your Project Title Here
+# Particle clock
 
-One-sentence summary of your project goes here; then fill out each of the following sections.
-It a particle clock.
+A particle clock that's formed by dots and it will flee away from your mouse.
 
 ## Summary
 
