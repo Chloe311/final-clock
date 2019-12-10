@@ -50,7 +50,7 @@ I have looked up many videos about the particle system because the physics were 
 ## Completed Work
 
 https://editor.p5js.org/Chloe311/sketches/XFviyECTk
-![] 
+![](https://github.com/Chloe311/final-clock/blob/master/Screen%20Shot%202019-12-09%20at%206.11.08%20PM.png)
 
 ## References and links
 
