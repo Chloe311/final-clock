@@ -55,16 +55,16 @@ https://editor.p5js.org/Chloe311/sketches/XFviyECTk
 
 Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
 
-https://www.openprocessing.org/sketch/448956/
-https://www.youtube.com/watch?v=UcdigVaIYAk
-https://www.youtube.com/watch?v=vdgiqMkFygc
-https://www.youtube.com/watch?v=krRpZFU6rSI
-https://p5js.org/reference/
-https://p5js.org/reference/#/p5.MediaElement/time
-https://p5js.org/reference/#/p5.Font/textToPoints
-https://p5js.org/reference/#/p5/createVector
-https://p5js.org/reference/#/p5/point
-https://p5js.org/reference/#/p5/second
-https://p5js.org/reference/#/p5/minute
-https://p5js.org/reference/#/p5/hour
-https://p5js.org/reference/#/p5.Vector/random2D
+· https://www.openprocessing.org/sketch/448956/
+· https://www.youtube.com/watch?v=UcdigVaIYAk
+· https://www.youtube.com/watch?v=vdgiqMkFygc
+· https://www.youtube.com/watch?v=krRpZFU6rSI
+· https://p5js.org/reference/
+· https://p5js.org/reference/#/p5.MediaElement/time
+· https://p5js.org/reference/#/p5.Font/textToPoints
+· https://p5js.org/reference/#/p5/createVector
+· https://p5js.org/reference/#/p5/point
+· https://p5js.org/reference/#/p5/second
+· https://p5js.org/reference/#/p5/minute
+· https://p5js.org/reference/#/p5/hour
+· https://p5js.org/reference/#/p5.Vector/random2D
